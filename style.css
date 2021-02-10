@@ -1,20 +1,9 @@
-.mTop {
-  display: flex;
-  min-height: 100vh;
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
   color: red;
 }
-
-body {background-color: red;}
-
-.credits {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 20px;
-  color: #ffa4bd;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
-  font-weight: normal;
-}
-
-
