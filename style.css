@@ -1,9 +1,3 @@
-*, *:before, *:after {
-  box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 body {
   background: linear-gradient(to right, #ea1d6f 0%, #eb466b 100%);
   font-size: 12px;
@@ -18,6 +12,7 @@ body, button, input {
 .background {
   display: flex;
   min-height: 100vh;
+  color: red;
 }
 
 .container {
